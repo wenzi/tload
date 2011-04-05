@@ -25,7 +25,7 @@ The -d delay sets the delay between graph updates in seconds.
 AUTHORS
 
 Branko Lankester
-David Engel <david@ods.com>
-Michael K. Johnson (johnsonm@sunsite.unc.edu)
+David Engel
+Michael K. Johnson
 Greg Coleman
 
